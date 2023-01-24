@@ -1,18 +1,15 @@
-## Getting Started
+## Desafio: Aprenda na Prática Programação Orientada a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
-## Folder Structure
+### Passo-a-Passo
 
-The workspace contains two folders by default, where:
+1. ABSTRAIR o DOMÍNIO Bootcamp e MODELAR ATRIBUTOS E MÉTODOS.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+2. Criar as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relacioná-las.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+3. As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+4. Para que o código fique mais legível e de fácil manutenção, utilizaremos algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+5. E para representar CLASSES que foram criadas e relacionadas, iremos transformá-las em OBJETOS.
